@@ -26,3 +26,11 @@ const two = "How are you?";
 const joined = `${one}${two}`;
 console.log(joined); // Hello, how are you?
 
+//TODO: Create some Test cases
+/**
+ * * Important Info Highlighted
+ * ! Deprecated
+ * ? Question mark?
+ * TODO - Todo
+ * @param myParam - Parameter fir this method
+ */
